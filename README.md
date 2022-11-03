@@ -1,4 +1,4 @@
-## How to run file use
+## How to use the code
 
 on python terminal
 ```bash
